@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(6, 36, 37);
+    background-size: cover;
+    color: whitesmoke;
+  }
+  .container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    color: whitesmoke;
+  }
+  
+  h1 {
+    color: whitesmoke;
+    margin-top: 120px;
+  }
+  
+  .input-group {
+    margin-bottom: 10px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input {
+    padding: 5px;
+    width: 100%;
+    box-sizing: border-box;
+    background: transparent;
+    border-color: whitesmoke;
+    color: wheat;
+  }
+  
+  .btn-group {
+    display: flex;
+    justify-content: center;
+  }
+  
+  button {
+    padding: 10px 20px;
+    margin: 0 5px;
+    background: transparent;
+    border-color: white;
+    color: white;
+  }
